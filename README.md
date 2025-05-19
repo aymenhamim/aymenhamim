@@ -8,7 +8,7 @@ Full-Stack Developer
 
 * 🌍  I'm based in Casablanca
 * ✉️  You can contact me at [aymenhamim2004@gmail.com](mailto:aymenhamim2004@gmail.com)
-* 🧠  I'm learning React ⚛️, Tailwind .
+* 🧠  I'm learning NextJs, Laravel .
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
